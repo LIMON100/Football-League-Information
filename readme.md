@@ -1,0 +1,1 @@
+This is mainly desktop app.
