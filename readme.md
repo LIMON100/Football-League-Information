@@ -1,7 +1,11 @@
 # Football League Information.
 
-**TThis app was created based on Java Swing. The top 10 teams of the two popular football leagues and the top 10 goal scorers of those two leagues are listed. What about a Particular Team**
+**This app was created based on Java Swing. The top 10 teams of the two popular football leagues and the top 10 goal scorers of those two leagues are listed. What about a Particular Team**
 
+ - Top 10 team
+ - Top 10 goal scorer
  - Team Coach and his profile
  - top 11 player profile
- - How many trofy one team won in it's cereer 
+ - How many trofhy one team won in it's cereer 
+ 
+ ![](https://raw.githubusercontent.com/LIMON100/Football-League-Information/master/images/1.PNG)
