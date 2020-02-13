@@ -9,3 +9,7 @@
  - How many trofhy one team won in it's cereer 
  
  ![](https://raw.githubusercontent.com/LIMON100/Football-League-Information/master/images/1.PNG)
+ ![](https://raw.githubusercontent.com/LIMON100/Football-League-Information/master/images/2.PNG)
+ ![](https://raw.githubusercontent.com/LIMON100/Football-League-Information/master/images/2.1.PNG)
+ ![](https://raw.githubusercontent.com/LIMON100/Football-League-Information/master/images/3.PNG)
+ ![](https://github.com/LIMON100/Football-League-Information/blob/master/images/4.PNG)
